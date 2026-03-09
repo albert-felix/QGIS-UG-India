@@ -17,7 +17,9 @@ Stay updated with our upcoming meetups, workshops, and conferences. Join us to l
 {{< rich-box-start icon="📥" layoutClass="tips">}}
 {{< rich-content-start themeClass="coloring-2" >}}
 
-No upcoming events at the moment. [Join the community]({{< relref "/" >}}#join-us) to get announcements for new events.
+No upcoming events at the moment.
+
+[Join the community]({{< relref "/" >}}#join-us) to get announcements for new events.
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
