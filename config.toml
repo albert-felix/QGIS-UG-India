@@ -133,7 +133,7 @@ commitFile = "config/commit.toml"
       lineNumbersInTable = false
       tabWidth = 4
       noClasses = false
-      style = "friendly"
+      style = "monokai"
     
 [markup.tableOfContents]
       endLevel = 3
