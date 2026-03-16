@@ -48,17 +48,35 @@ We are a community of QGIS users passionate about open-source geospatial technol
 
 {{< column-start class="is-flex-direction-column is-two-thirds">}}
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-1" >}} 
+{{< rich-content-start themeClass="coloring-1" >}}
 
-Whether you're a beginner or an experienced QGIS user, everyone is welcome. Join our events, participate in discussions, and help grow the community. 
+Whether you're a beginner or an experienced QGIS user, everyone is welcome. Join our events, participate in discussions, and help grow the community. Check out our [Rules]({{< relref "rules" >}}) page to learn about our community guidelines.
 
 &nbsp;&nbsp;<i class="fab fa-telegram-plane"></i> [Telegram Group](https://t.me/+YVUWbgjA320wZGU1): Our main channel for discussions, asking for help, and connecting with other members.
 
 &nbsp;&nbsp;<i class="fas fa-envelope"></i> [QGIS India Mailing List](https://groups.google.com/g/qgis-india/): Join the mailing list to volunteer and coordinate with other members on group's activities.
 
+
+{{< rich-content-end >}}
+{{< rich-box-end >}}
+
+{{< column-end >}}
+{{< columns-end >}}
+
+
+{{< columns-start class="mb-6">}}
+{{< column-start class="is-flex-direction-column is-one-third left-title">}}
+
+## Follow Us
+{{< column-end >}}
+
+{{< column-start class="is-flex-direction-column is-two-thirds">}}
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-1" >}}
+
 &nbsp;&nbsp;<i class="fab fa-linkedin"></i> [LinkedIn Group](https://www.linkedin.com/groups/17314018/): Join the LinkedIn group for updates and discussions.
 
-Check out our [Rules]({{< relref "rules" >}}) page to learn about our community guidelines.
+&nbsp;&nbsp;<i class="fab fa-youtube"></i> [YouTube Channel](https://www.youtube.com/@QGISIndiaUserGroup): Watch tutorials and recordings from our events.
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
